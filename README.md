@@ -2,7 +2,7 @@
 
 ### Assignment Task
 
-Write a java console application for calculating income tax for N company employees. N should be declared as a constant and it should be equal to the largest digit of your student ID number (e.g. if your ID number is S456222 then N should be equal to 6 and you can declare it as final int N=6). The income tax and tax group for taxable income are  shown below in Table 1.
+Write a java console application for calculating income tax for N company employees. N should be declared as a constant and it should be equal to the largest digit of your student ID number (e.g. if your ID number is S456222 then N should be equal to 6 and you can declare it as final int N=6). The income tax and tax group for taxable income are  shown below in Table.
 
 | Taxable Income	      | Income Tax	                                | Tax Group   |
 |-----------------------|---------------------------------------------|-------------|
