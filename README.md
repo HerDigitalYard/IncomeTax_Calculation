@@ -13,7 +13,7 @@ Write a java console application for calculating income tax for N company employ
 | 5. $180001 and over	  | $54097 plus 45c for each $1 over $180000	  | Group 5     |
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | Second Header |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
